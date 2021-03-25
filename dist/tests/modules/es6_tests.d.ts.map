@@ -1,0 +1,1 @@
+{"version":3,"file":"es6_tests.d.ts","sourceRoot":"","sources":["../../../src/tests/modules/es6_tests.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,qBAAqB,EAAE,MAAM,mCAAmC,CAAA;AAEzE,MAAM,CAAC,OAAO,OAAO,QAAS,SAAQ,qBAAqB;IACzD,MAAM,CAAC,cAAc,CAAC,QAAQ,EAAE,MAAM;IAItC,WAAW,SAIV;IAED,aAAa,SAEZ;IAEK,aAAa;IAUb,QAAQ;IAKR,6BAA6B;CAIpC"}
